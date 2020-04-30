@@ -1,0 +1,1 @@
+{"jobName": "prg_diarization_test", "accountId": "115847983408", "results": {"transcripts": [{"transcript": "after."}], "items": [{"start_time": "0.84", "end_time": "1.16", "alternatives": [{"confidence": "0.466", "content": "after"}], "type": "pronunciation"}, {"alternatives": [{"confidence": "0.0", "content": "."}], "type": "punctuation"}]}, "status": "COMPLETED"}
